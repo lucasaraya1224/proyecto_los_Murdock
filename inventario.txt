@@ -1,0 +1,100 @@
+1000;Leche Entera Original 1;Lacteos;3990.00;33;14;1
+1001;Margarina Gourmet 2;Lacteos;1990.00;80;23;1
+1002;Arroz Grado 1 Clasico 3;Abarrotes;3590.00;34;26;1
+1003;Lentejas Seleccion 4;Abarrotes;7790.00;58;17;1
+1004;Zapallo Original 5;Verduras;890.00;102;15;1
+1005;Longaniza Original 6;Carnes;2790.00;32;20;1
+1006;Leche Descremada Doble 7;Lacteos;2090.00;50;21;1
+1007;Papas Fritas Express 8;Snacks;7690.00;20;22;1
+1008;Leche cultivada Original 9;Lacteos;8890.00;84;21;1
+1009;Lavalozas Premium 10;Limpieza;3790.00;103;19;1
+1010;Mantequilla Clasico 11;Lacteos;5690.00;40;24;1
+1011;Pan de Molde Familiar 12;Panaderia;5390.00;31;18;1
+1012;Queso Crema Seleccion 13;Lacteos;2990.00;73;17;1
+1013;Bebida Energetica Doble 14;Bebidas;4290.00;86;27;1
+1014;Suavizante Familiar 15;Limpieza;1590.00;34;11;1
+1015;Pan Pita Original 16;Panaderia;1690.00;32;28;1
+1016;Tortillas Seleccion 17;Panaderia;7190.00;55;30;1
+1017;Palta Original 18;Verduras;2590.00;36;27;1
+1018;Galletas de Avena Doble 19;Snacks;8290.00;56;21;1
+1019;Cloro Gourmet 20;Limpieza;7190.00;16;11;1
+1020;Queso Gouda Seleccion 21;Lacteos;2890.00;106;23;1
+1021;Crema de leche Doble 22;Lacteos;8490.00;64;26;1
+1022;Gomitas Premium 23;Snacks;2290.00;92;27;1
+1023;Barra de Cereal Clasico 24;Snacks;4590.00;60;15;1
+1024;Tomate Original 25;Verduras;7290.00;102;15;1
+1025;Margarina Original 26;Lacteos;8990.00;69;29;1
+1026;Cloro Familiar 27;Limpieza;2890.00;74;26;1
+1027;Te negro Express 28;Abarrotes;1090.00;19;21;1
+1028;Galletas de Soda Premium 29;Snacks;3890.00;117;28;1
+1029;Leche Descremada Express 30;Lacteos;1690.00;102;27;1
+1030;Agua sin gas Seleccion 31;Bebidas;6890.00;75;15;1
+1031;Gomitas Natural 32;Snacks;6290.00;32;27;1
+1032;Esponja Doble 33;Limpieza;5590.00;61;26;1
+1033;Cebolla Extra 34;Verduras;3690.00;13;20;1
+1034;Salsa de Tomate Natural 35;Abarrotes;3690.00;5;12;1
+1035;Salsa de Tomate Clasico 36;Abarrotes;1290.00;115;20;1
+1036;Leche cultivada Extra 37;Lacteos;4390.00;90;25;1
+1037;Limpiavidrios Light 38;Limpieza;8190.00;78;25;1
+1038;Bolsas de Basura Doble 39;Limpieza;3290.00;17;13;1
+1039;Longaniza Doble 40;Carnes;6090.00;64;11;1
+1040;Leche Entera Doble 41;Lacteos;5190.00;107;13;1
+1041;Limpiapisos Extra 42;Limpieza;7690.00;62;14;1
+1042;Carne Molida Original 43;Carnes;6790.00;36;12;1
+1043;Choclo Clasico 44;Verduras;1490.00;88;27;1
+1044;Aceite Maravilla Extra 45;Abarrotes;2990.00;57;25;1
+1045;Limon Doble 46;Verduras;1590.00;26;22;1
+1046;Ketchup Original 47;Abarrotes;6690.00;41;23;1
+1047;Palta Extra 48;Verduras;4590.00;32;11;1
+1048;Te negro Premium 49;Abarrotes;1490.00;79;25;1
+1049;Bebida Cola 2L Gourmet 50;Bebidas;1890.00;113;15;1
+1050;Queso Crema Clasico 51;Lacteos;3890.00;56;13;1
+1051;Desodorante Ambiental Natural 52;Limpieza;1390.00;84;12;1
+1052;Pavo Natural 53;Carnes;7490.00;45;18;1
+1053;Suavizante Familiar 54;Limpieza;3890.00;38;22;1
+1054;Ginger Ale Seleccion 55;Bebidas;4690.00;63;20;1
+1055;Leche Entera Express 56;Lacteos;8790.00;77;13;1
+1056;Leche cultivada Extra 57;Lacteos;7290.00;38;14;1
+1057;Pan Hallulla Extra 58;Panaderia;5590.00;41;15;1
+1058;Choclo Original 59;Verduras;8690.00;108;30;1
+1059;Cafe instantaneo Seleccion 60;Abarrotes;2190.00;117;14;1
+1060;Ramitas Clasico 61;Snacks;7890.00;24;18;1
+1061;Galletas de Avena Extra 62;Snacks;5190.00;31;30;1
+1062;Gomitas Express 63;Snacks;4090.00;120;11;1
+1063;Margarina Doble 64;Lacteos;4390.00;10;10;1
+1064;Pan de Molde Seleccion 65;Panaderia;4190.00;25;24;1
+1065;Costillar Premium 66;Carnes;2290.00;14;14;1
+1066;Mayonesa Natural 67;Abarrotes;7890.00;23;23;1
+1067;Bebida Cola 2L Original 68;Bebidas;5490.00;120;11;1
+1068;Tortillas Seleccion 69;Panaderia;3990.00;90;13;1
+1069;Pan Integral Doble 70;Panaderia;8790.00;100;14;1
+1070;Cloro Light 71;Limpieza;6090.00;8;15;1
+1071;Pan Pita Seleccion 72;Panaderia;3990.00;39;15;1
+1072;Crema de leche Premium 73;Lacteos;6890.00;33;16;1
+1073;Papa Original 74;Verduras;3790.00;33;10;1
+1074;Toalla de Papel Familiar 75;Limpieza;4390.00;115;12;1
+1075;Barra de Cereal Seleccion 76;Snacks;7390.00;56;27;1
+1076;Pan Marraqueta Clasico 77;Panaderia;4190.00;27;28;1
+1077;Papas Fritas Clasico 78;Snacks;8490.00;60;21;1
+1078;Pan Pita Natural 79;Panaderia;7390.00;19;22;1
+1079;Esponja Premium 80;Limpieza;6390.00;5;26;1
+1080;Papel Higienico Doble 81;Limpieza;1690.00;90;20;1
+1081;Pan Hallulla Original 82;Panaderia;7290.00;44;23;1
+1082;Pan Pita Original 83;Panaderia;7890.00;21;16;1
+1083;Vienesas Seleccion 84;Carnes;3090.00;83;28;1
+1084;Cereal de Chocolate Gourmet 85;Snacks;890.00;43;19;1
+1085;Toalla de Papel Natural 86;Limpieza;8590.00;88;20;1
+1086;Ajo Express 87;Verduras;3590.00;70;25;1
+1087;Ginger Ale Clasico 88;Bebidas;4490.00;70;30;1
+1088;Pan Hallulla Extra 89;Panaderia;4790.00;33;16;1
+1089;Bebida Cola 2L Premium 90;Bebidas;3990.00;65;29;1
+1090;Manjar Doble 91;Lacteos;8890.00;78;16;1
+1091;Carne de Vacuno Doble 92;Carnes;3990.00;23;30;1
+1092;Sal Fina Doble 93;Abarrotes;3690.00;27;26;1
+1093;Tomate Gourmet 94;Verduras;3990.00;113;13;1
+1094;Palta Express 95;Verduras;7590.00;76;29;1
+1095;Croissant Natural 96;Panaderia;7290.00;59;27;1
+1096;Palta Express 97;Verduras;6590.00;38;17;1
+1097;Gomitas Express 98;Snacks;8890.00;35;18;1
+1098;Cebolla Original 99;Verduras;3890.00;39;20;1
+1099;Pan Integral Clasico 100;Panaderia;2590.00;24;17;1
